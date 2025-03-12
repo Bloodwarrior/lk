@@ -1,0 +1,6 @@
+increase_investment_text = {
+    first = increase_investment_loc
+	global = increase_investment_loc
+	third = increase_investment_loc
+	#first_neg = vision_truthwatcher_score_loc
+}

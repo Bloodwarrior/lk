@@ -1,0 +1,33 @@
+rebirth = {
+
+}
+eternity = {
+	
+}
+investment = {
+	
+}
+faith_harvesting = {
+
+}
+divinity = {
+
+}
+manifestation = {
+
+}
+avatar = {
+
+}
+perpendicularity = {
+
+}
+prophet = {
+	
+}
+monster = {
+	
+}
+dominion = {
+	
+}

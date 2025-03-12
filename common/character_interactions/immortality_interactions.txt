@@ -1,0 +1,173 @@
+grant_immortality_interaction = {
+	category = interaction_category_divine
+	icon = eternal_trait
+
+
+	desc = grant_immortality_interaction_desc
+	
+	is_shown = {
+		NOT = { scope:actor = scope:recipient }
+		scope:actor = { is_a_divinity = yes }
+		NOT = { scope:recipient = { has_trait = true_immortal_trait } }
+	}
+
+	is_valid_showing_failures_only = {
+		scope:recipient = {
+			NOT = {
+				is_a_divinity = yes
+			}
+		}
+	}
+
+	send_options_exclusive = yes
+	send_option = {
+		is_valid = {
+			scope:recipient =  {
+				NOT = { has_trait = eternal_trait }
+				NOT = { has_trait = reborn_trait }
+				NOT = { has_trait = true_immortal_trait }
+			}
+		}
+		flag = eternal
+		localization = eternal_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient =  {
+				NOT = { has_trait = eternal_trait }
+				NOT = { has_trait = reborn_trait }
+				NOT = { has_trait = true_immortal_trait }
+			}
+		}
+		flag = reborn
+		localization = reborn_option
+	}
+
+	send_option = {
+		is_valid = {
+		}
+		flag = true_immortal
+		localization = true_immortal_option
+	}
+
+	on_accept = {
+		scope:recipient = {
+			add_opinion = {
+				target = scope:actor
+				modifier = made_me_immortal
+			}
+		}
+		if = {
+			limit = {
+				scope:eternal = yes
+			}
+			scope:recipient = {
+				custom_description = {
+					text = increase_investment_text
+					object = scope:recipient
+					value = 5
+					increase_investment_level = { amount = 5 }
+				}
+				add_trait = eternal_trait
+			}
+		}
+
+		if = {
+			limit = {
+				scope:reborn = yes
+			}
+			scope:recipient = {
+				custom_description = {
+					text = increase_investment_text
+					object = scope:recipient
+					value = 5
+					increase_investment_level = { amount = 5 }
+				}
+				add_trait = reborn_trait
+			}
+		}
+
+		if = {
+			limit = {
+				scope:true_immortal = yes
+			}
+			scope:recipient = {
+				if = {
+					limit = {
+						OR = {
+							has_trait = reborn_trait
+							has_trait = eternal_trait
+						}
+					}
+					custom_description = {
+						text = increase_investment_text
+						object = scope:recipient
+						value = 5
+						remove_trait = reborn_trait
+						remove_trait = eternal_trait
+						increase_investment_level = { amount = 5 }
+					}
+				}
+				else = {
+					custom_description = {
+						text = increase_investment_text
+						object = scope:recipient
+						value = 10
+						remove_trait = reborn_trait
+						remove_trait = eternal_trait
+						increase_investment_level = { amount = 10 }
+					}
+				}
+				
+				add_trait_force_tooltip = true_immortal_trait
+			}
+		}
+		
+	}
+
+	auto_accept = yes
+
+	cost = {
+		piety = {
+			add = {
+				desc = "BASE_VALUE"
+				value = 500
+				format = "BASE_VALUE_FORMAT"
+			}
+
+			if = {
+				limit = {
+					scope:true_immortal = yes
+				}
+				add = {
+					desc = "TRUE_IMMORTAL"
+					value = 500
+					# format = "BASE_VALUE_FORMAT"
+				}
+			}
+			scope:recipient = {
+				multiply = {
+					desc = "INVESTMENT_COST_MULTIPLY"
+					value = investment_level_multiplier
+				}
+			}
+
+			multiply = {
+				desc = "DOMINION_COST_MULTIPLY"
+				value = dominion_multiplier
+			}
+	}
+	
+	# AI
+	# ai_targets = {
+	# }
+	# ai_frequency = 12
+
+	# ai_potential = {
+	# }
+
+	# ai_will_do = {
+	# 	base = 0
+	# }
+}

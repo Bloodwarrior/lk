@@ -1,0 +1,17 @@
+blessed_me_opinion = {
+	opinion = 25
+	years = 20
+	decaying = yes
+	stacking = yes
+}
+
+cursed_me_opinion = {
+	opinion = -50
+	years = 20
+	decaying = yes
+	stacking = yes
+}
+
+made_me_immortal = {
+	opinion = 50
+}

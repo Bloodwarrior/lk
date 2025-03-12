@@ -1,0 +1,13 @@
+investment_level = {
+	value = 0
+	if = {
+		limit = {
+			has_variable = investment_level_var
+		}
+		add = var:investment_level_var
+	}
+}
+
+investment_level_multiplier = {
+	value = investment_level divide = 4 add = 1
+}

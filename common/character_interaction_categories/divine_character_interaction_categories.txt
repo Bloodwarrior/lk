@@ -1,0 +1,5011 @@
+﻿#########################################################
+#														#
+#  DO NOT LEAVE GAPS IN "index" OR THE GAME WILL CRASH  #
+#														#
+#########################################################
+
+interaction_category_dummy_0 = {
+	index = 14
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_1 = {
+	index = 15
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_2 = {
+	index = 16
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_3 = {
+	index = 17
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_4 = {
+	index = 18
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_5 = {
+	index = 19
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_6 = {
+	index = 20
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_7 = {
+	index = 21
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_8 = {
+	index = 22
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_9 = {
+	index = 23
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_10 = {
+	index = 24
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_11 = {
+	index = 25
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_12 = {
+	index = 26
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_13 = {
+	index = 27
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_14 = {
+	index = 28
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_15 = {
+	index = 29
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_16 = {
+	index = 30
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_17 = {
+	index = 31
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_18 = {
+	index = 32
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_19 = {
+	index = 33
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_20 = {
+	index = 34
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_21 = {
+	index = 35
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_22 = {
+	index = 36
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_23 = {
+	index = 37
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_24 = {
+	index = 38
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_25 = {
+	index = 39
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_26 = {
+	index = 40
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_27 = {
+	index = 41
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_28 = {
+	index = 42
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_29 = {
+	index = 43
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_30 = {
+	index = 44
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_31 = {
+	index = 45
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_32 = {
+	index = 46
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_33 = {
+	index = 47
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_34 = {
+	index = 48
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_35 = {
+	index = 49
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_36 = {
+	index = 50
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_37 = {
+	index = 51
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_38 = {
+	index = 52
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_39 = {
+	index = 53
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_40 = {
+	index = 54
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_41 = {
+	index = 55
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_42 = {
+	index = 56
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_43 = {
+	index = 57
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_44 = {
+	index = 58
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_45 = {
+	index = 59
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_46 = {
+	index = 60
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_47 = {
+	index = 61
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_48 = {
+	index = 62
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_49 = {
+	index = 63
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_50 = {
+	index = 64
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_51 = {
+	index = 65
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_52 = {
+	index = 66
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_53 = {
+	index = 67
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_54 = {
+	index = 68
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_55 = {
+	index = 69
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_56 = {
+	index = 70
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_57 = {
+	index = 71
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_58 = {
+	index = 72
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_59 = {
+	index = 73
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_60 = {
+	index = 74
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_61 = {
+	index = 75
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_62 = {
+	index = 76
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_63 = {
+	index = 77
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_64 = {
+	index = 78
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_65 = {
+	index = 79
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_66 = {
+	index = 80
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_67 = {
+	index = 81
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_68 = {
+	index = 82
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_69 = {
+	index = 83
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_70 = {
+	index = 84
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_71 = {
+	index = 85
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_72 = {
+	index = 86
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_73 = {
+	index = 87
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_74 = {
+	index = 88
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_75 = {
+	index = 89
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_76 = {
+	index = 90
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_77 = {
+	index = 91
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_78 = {
+	index = 92
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_79 = {
+	index = 93
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_80 = {
+	index = 94
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_81 = {
+	index = 95
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_82 = {
+	index = 96
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_83 = {
+	index = 97
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_84 = {
+	index = 98
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_85 = {
+	index = 99
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_86 = {
+	index = 100
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_87 = {
+	index = 101
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_88 = {
+	index = 102
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_89 = {
+	index = 103
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_90 = {
+	index = 104
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_91 = {
+	index = 105
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_92 = {
+	index = 106
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_93 = {
+	index = 107
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_94 = {
+	index = 108
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_95 = {
+	index = 109
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_96 = {
+	index = 110
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_97 = {
+	index = 111
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_98 = {
+	index = 112
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_99 = {
+	index = 113
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_100 = {
+	index = 114
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_101 = {
+	index = 115
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_102 = {
+	index = 116
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_103 = {
+	index = 117
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_104 = {
+	index = 118
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_105 = {
+	index = 119
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_106 = {
+	index = 120
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_107 = {
+	index = 121
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_108 = {
+	index = 122
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_109 = {
+	index = 123
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_110 = {
+	index = 124
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_111 = {
+	index = 125
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_112 = {
+	index = 126
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_113 = {
+	index = 127
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_114 = {
+	index = 128
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_115 = {
+	index = 129
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_116 = {
+	index = 130
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_117 = {
+	index = 131
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_118 = {
+	index = 132
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_119 = {
+	index = 133
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_120 = {
+	index = 134
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_121 = {
+	index = 135
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_122 = {
+	index = 136
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_123 = {
+	index = 137
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_124 = {
+	index = 138
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_125 = {
+	index = 139
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_126 = {
+	index = 140
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_127 = {
+	index = 141
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_128 = {
+	index = 142
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_129 = {
+	index = 143
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_130 = {
+	index = 144
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_131 = {
+	index = 145
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_132 = {
+	index = 146
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_133 = {
+	index = 147
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_134 = {
+	index = 148
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_135 = {
+	index = 149
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_136 = {
+	index = 150
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_137 = {
+	index = 151
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_138 = {
+	index = 152
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_139 = {
+	index = 153
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_140 = {
+	index = 154
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_141 = {
+	index = 155
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_142 = {
+	index = 156
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_143 = {
+	index = 157
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_144 = {
+	index = 158
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_145 = {
+	index = 159
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_146 = {
+	index = 160
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_147 = {
+	index = 161
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_148 = {
+	index = 162
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_149 = {
+	index = 163
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_150 = {
+	index = 164
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_151 = {
+	index = 165
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_152 = {
+	index = 166
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_153 = {
+	index = 167
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_154 = {
+	index = 168
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_155 = {
+	index = 169
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_156 = {
+	index = 170
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_157 = {
+	index = 171
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_158 = {
+	index = 172
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_159 = {
+	index = 173
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_160 = {
+	index = 174
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_161 = {
+	index = 175
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_162 = {
+	index = 176
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_163 = {
+	index = 177
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_164 = {
+	index = 178
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_165 = {
+	index = 179
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_166 = {
+	index = 180
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_167 = {
+	index = 181
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_168 = {
+	index = 182
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_169 = {
+	index = 183
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_170 = {
+	index = 184
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_171 = {
+	index = 185
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_172 = {
+	index = 186
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_173 = {
+	index = 187
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_174 = {
+	index = 188
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_175 = {
+	index = 189
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_176 = {
+	index = 190
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_177 = {
+	index = 191
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_178 = {
+	index = 192
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_179 = {
+	index = 193
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_180 = {
+	index = 194
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_181 = {
+	index = 195
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_182 = {
+	index = 196
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_183 = {
+	index = 197
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_184 = {
+	index = 198
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_185 = {
+	index = 199
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_186 = {
+	index = 200
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_187 = {
+	index = 201
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_188 = {
+	index = 202
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_189 = {
+	index = 203
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_190 = {
+	index = 204
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_191 = {
+	index = 205
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_192 = {
+	index = 206
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_193 = {
+	index = 207
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_194 = {
+	index = 208
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_195 = {
+	index = 209
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_196 = {
+	index = 210
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_197 = {
+	index = 211
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_198 = {
+	index = 212
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_199 = {
+	index = 213
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_200 = {
+	index = 214
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_201 = {
+	index = 215
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_202 = {
+	index = 216
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_203 = {
+	index = 217
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_204 = {
+	index = 218
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_205 = {
+	index = 219
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_206 = {
+	index = 220
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_207 = {
+	index = 221
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_208 = {
+	index = 222
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_209 = {
+	index = 223
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_210 = {
+	index = 224
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_211 = {
+	index = 225
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_212 = {
+	index = 226
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_213 = {
+	index = 227
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_214 = {
+	index = 228
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_215 = {
+	index = 229
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_216 = {
+	index = 230
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_217 = {
+	index = 231
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_218 = {
+	index = 232
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_219 = {
+	index = 233
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_220 = {
+	index = 234
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_221 = {
+	index = 235
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_222 = {
+	index = 236
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_223 = {
+	index = 237
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_224 = {
+	index = 238
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_225 = {
+	index = 239
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_226 = {
+	index = 240
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_227 = {
+	index = 241
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_228 = {
+	index = 242
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_229 = {
+	index = 243
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_230 = {
+	index = 244
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_231 = {
+	index = 245
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_232 = {
+	index = 246
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_233 = {
+	index = 247
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_234 = {
+	index = 248
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_235 = {
+	index = 249
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_236 = {
+	index = 250
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_237 = {
+	index = 251
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_238 = {
+	index = 252
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_239 = {
+	index = 253
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_240 = {
+	index = 254
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_241 = {
+	index = 255
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_242 = {
+	index = 256
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_243 = {
+	index = 257
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_244 = {
+	index = 258
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_245 = {
+	index = 259
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_246 = {
+	index = 260
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_247 = {
+	index = 261
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_248 = {
+	index = 262
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_249 = {
+	index = 263
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_250 = {
+	index = 264
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_251 = {
+	index = 265
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_252 = {
+	index = 266
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_253 = {
+	index = 267
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_254 = {
+	index = 268
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_255 = {
+	index = 269
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_256 = {
+	index = 270
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_257 = {
+	index = 271
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_258 = {
+	index = 272
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_259 = {
+	index = 273
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_260 = {
+	index = 274
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_261 = {
+	index = 275
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_262 = {
+	index = 276
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_263 = {
+	index = 277
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_264 = {
+	index = 278
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_265 = {
+	index = 279
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_266 = {
+	index = 280
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_267 = {
+	index = 281
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_268 = {
+	index = 282
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_269 = {
+	index = 283
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_270 = {
+	index = 284
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_271 = {
+	index = 285
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_272 = {
+	index = 286
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_273 = {
+	index = 287
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_274 = {
+	index = 288
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_275 = {
+	index = 289
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_276 = {
+	index = 290
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_277 = {
+	index = 291
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_278 = {
+	index = 292
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_279 = {
+	index = 293
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_280 = {
+	index = 294
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_281 = {
+	index = 295
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_282 = {
+	index = 296
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_283 = {
+	index = 297
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_284 = {
+	index = 298
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_285 = {
+	index = 299
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_286 = {
+	index = 300
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_287 = {
+	index = 301
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_288 = {
+	index = 302
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_289 = {
+	index = 303
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_290 = {
+	index = 304
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_291 = {
+	index = 305
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_292 = {
+	index = 306
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_293 = {
+	index = 307
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_294 = {
+	index = 308
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_295 = {
+	index = 309
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_296 = {
+	index = 310
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_297 = {
+	index = 311
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_298 = {
+	index = 312
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_299 = {
+	index = 313
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_300 = {
+	index = 314
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_301 = {
+	index = 315
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_302 = {
+	index = 316
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_303 = {
+	index = 317
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_304 = {
+	index = 318
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_305 = {
+	index = 319
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_306 = {
+	index = 320
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_307 = {
+	index = 321
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_308 = {
+	index = 322
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_309 = {
+	index = 323
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_310 = {
+	index = 324
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_311 = {
+	index = 325
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_312 = {
+	index = 326
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_313 = {
+	index = 327
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_314 = {
+	index = 328
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_315 = {
+	index = 329
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_316 = {
+	index = 330
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_317 = {
+	index = 331
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_318 = {
+	index = 332
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_319 = {
+	index = 333
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_320 = {
+	index = 334
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_321 = {
+	index = 335
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_322 = {
+	index = 336
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_323 = {
+	index = 337
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_324 = {
+	index = 338
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_325 = {
+	index = 339
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_326 = {
+	index = 340
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_327 = {
+	index = 341
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_328 = {
+	index = 342
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_329 = {
+	index = 343
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_330 = {
+	index = 344
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_331 = {
+	index = 345
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_332 = {
+	index = 346
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_333 = {
+	index = 347
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_334 = {
+	index = 348
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_335 = {
+	index = 349
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_336 = {
+	index = 350
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_337 = {
+	index = 351
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_338 = {
+	index = 352
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_339 = {
+	index = 353
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_340 = {
+	index = 354
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_341 = {
+	index = 355
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_342 = {
+	index = 356
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_343 = {
+	index = 357
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_344 = {
+	index = 358
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_345 = {
+	index = 359
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_346 = {
+	index = 360
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_347 = {
+	index = 361
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_348 = {
+	index = 362
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_349 = {
+	index = 363
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_350 = {
+	index = 364
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_351 = {
+	index = 365
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_352 = {
+	index = 366
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_353 = {
+	index = 367
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_354 = {
+	index = 368
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_355 = {
+	index = 369
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_356 = {
+	index = 370
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_357 = {
+	index = 371
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_358 = {
+	index = 372
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_359 = {
+	index = 373
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_360 = {
+	index = 374
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_361 = {
+	index = 375
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_362 = {
+	index = 376
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_363 = {
+	index = 377
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_364 = {
+	index = 378
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_365 = {
+	index = 379
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_366 = {
+	index = 380
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_367 = {
+	index = 381
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_368 = {
+	index = 382
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_369 = {
+	index = 383
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_370 = {
+	index = 384
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_371 = {
+	index = 385
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_372 = {
+	index = 386
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_373 = {
+	index = 387
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_374 = {
+	index = 388
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_375 = {
+	index = 389
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_376 = {
+	index = 390
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_377 = {
+	index = 391
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_378 = {
+	index = 392
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_379 = {
+	index = 393
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_380 = {
+	index = 394
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_381 = {
+	index = 395
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_382 = {
+	index = 396
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_383 = {
+	index = 397
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_384 = {
+	index = 398
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_385 = {
+	index = 399
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_386 = {
+	index = 400
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_387 = {
+	index = 401
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_388 = {
+	index = 402
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_389 = {
+	index = 403
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_390 = {
+	index = 404
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_391 = {
+	index = 405
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_392 = {
+	index = 406
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_393 = {
+	index = 407
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_394 = {
+	index = 408
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_395 = {
+	index = 409
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_396 = {
+	index = 410
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_397 = {
+	index = 411
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_398 = {
+	index = 412
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_399 = {
+	index = 413
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_400 = {
+	index = 414
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_401 = {
+	index = 415
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_402 = {
+	index = 416
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_403 = {
+	index = 417
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_404 = {
+	index = 418
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_405 = {
+	index = 419
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_406 = {
+	index = 420
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_407 = {
+	index = 421
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_408 = {
+	index = 422
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_409 = {
+	index = 423
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_410 = {
+	index = 424
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_411 = {
+	index = 425
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_412 = {
+	index = 426
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_413 = {
+	index = 427
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_414 = {
+	index = 428
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_415 = {
+	index = 429
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_416 = {
+	index = 430
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_417 = {
+	index = 431
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_418 = {
+	index = 432
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_419 = {
+	index = 433
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_420 = {
+	index = 434
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_421 = {
+	index = 435
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_422 = {
+	index = 436
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_423 = {
+	index = 437
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_424 = {
+	index = 438
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_425 = {
+	index = 439
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_426 = {
+	index = 440
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_427 = {
+	index = 441
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_428 = {
+	index = 442
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_429 = {
+	index = 443
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_430 = {
+	index = 444
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_431 = {
+	index = 445
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_432 = {
+	index = 446
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_433 = {
+	index = 447
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_434 = {
+	index = 448
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_435 = {
+	index = 449
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_436 = {
+	index = 450
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_437 = {
+	index = 451
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_438 = {
+	index = 452
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_439 = {
+	index = 453
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_440 = {
+	index = 454
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_441 = {
+	index = 455
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_442 = {
+	index = 456
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_443 = {
+	index = 457
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_444 = {
+	index = 458
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_445 = {
+	index = 459
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_446 = {
+	index = 460
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_447 = {
+	index = 461
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_448 = {
+	index = 462
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_449 = {
+	index = 463
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_450 = {
+	index = 464
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_451 = {
+	index = 465
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_452 = {
+	index = 466
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_453 = {
+	index = 467
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_454 = {
+	index = 468
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_455 = {
+	index = 469
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_456 = {
+	index = 470
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_457 = {
+	index = 471
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_458 = {
+	index = 472
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_459 = {
+	index = 473
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_460 = {
+	index = 474
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_461 = {
+	index = 475
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_462 = {
+	index = 476
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_463 = {
+	index = 477
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_464 = {
+	index = 478
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_465 = {
+	index = 479
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_466 = {
+	index = 480
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_467 = {
+	index = 481
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_468 = {
+	index = 482
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_469 = {
+	index = 483
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_470 = {
+	index = 484
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_471 = {
+	index = 485
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_472 = {
+	index = 486
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_473 = {
+	index = 487
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_474 = {
+	index = 488
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_475 = {
+	index = 489
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_476 = {
+	index = 490
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_477 = {
+	index = 491
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_478 = {
+	index = 492
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_479 = {
+	index = 493
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_480 = {
+	index = 494
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_481 = {
+	index = 495
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_482 = {
+	index = 496
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_483 = {
+	index = 497
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_484 = {
+	index = 498
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_485 = {
+	index = 499
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_486 = {
+	index = 500
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_487 = {
+	index = 501
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_488 = {
+	index = 502
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_489 = {
+	index = 503
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_490 = {
+	index = 504
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_491 = {
+	index = 505
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_492 = {
+	index = 506
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_493 = {
+	index = 507
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_494 = {
+	index = 508
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_495 = {
+	index = 509
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_496 = {
+	index = 510
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_497 = {
+	index = 511
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_498 = {
+	index = 512
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_499 = {
+	index = 513
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_500 = {
+	index = 514
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_501 = {
+	index = 515
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_502 = {
+	index = 516
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_503 = {
+	index = 517
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_504 = {
+	index = 518
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_505 = {
+	index = 519
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_506 = {
+	index = 520
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_507 = {
+	index = 521
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_508 = {
+	index = 522
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_509 = {
+	index = 523
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_510 = {
+	index = 524
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_511 = {
+	index = 525
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_512 = {
+	index = 526
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_513 = {
+	index = 527
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_514 = {
+	index = 528
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_515 = {
+	index = 529
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_516 = {
+	index = 530
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_517 = {
+	index = 531
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_518 = {
+	index = 532
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_519 = {
+	index = 533
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_520 = {
+	index = 534
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_521 = {
+	index = 535
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_522 = {
+	index = 536
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_523 = {
+	index = 537
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_524 = {
+	index = 538
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_525 = {
+	index = 539
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_526 = {
+	index = 540
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_527 = {
+	index = 541
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_528 = {
+	index = 542
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_529 = {
+	index = 543
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_530 = {
+	index = 544
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_531 = {
+	index = 545
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_532 = {
+	index = 546
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_533 = {
+	index = 547
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_534 = {
+	index = 548
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_535 = {
+	index = 549
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_536 = {
+	index = 550
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_537 = {
+	index = 551
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_538 = {
+	index = 552
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_539 = {
+	index = 553
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_540 = {
+	index = 554
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_541 = {
+	index = 555
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_542 = {
+	index = 556
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_543 = {
+	index = 557
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_544 = {
+	index = 558
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_545 = {
+	index = 559
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_546 = {
+	index = 560
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_547 = {
+	index = 561
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_548 = {
+	index = 562
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_549 = {
+	index = 563
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_550 = {
+	index = 564
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_551 = {
+	index = 565
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_552 = {
+	index = 566
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_553 = {
+	index = 567
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_554 = {
+	index = 568
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_555 = {
+	index = 569
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_556 = {
+	index = 570
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_557 = {
+	index = 571
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_558 = {
+	index = 572
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_559 = {
+	index = 573
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_560 = {
+	index = 574
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_561 = {
+	index = 575
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_562 = {
+	index = 576
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_563 = {
+	index = 577
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_564 = {
+	index = 578
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_565 = {
+	index = 579
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_566 = {
+	index = 580
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_567 = {
+	index = 581
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_568 = {
+	index = 582
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_569 = {
+	index = 583
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_570 = {
+	index = 584
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_571 = {
+	index = 585
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_572 = {
+	index = 586
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_573 = {
+	index = 587
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_574 = {
+	index = 588
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_575 = {
+	index = 589
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_576 = {
+	index = 590
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_577 = {
+	index = 591
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_578 = {
+	index = 592
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_579 = {
+	index = 593
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_580 = {
+	index = 594
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_581 = {
+	index = 595
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_582 = {
+	index = 596
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_583 = {
+	index = 597
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_584 = {
+	index = 598
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_585 = {
+	index = 599
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_586 = {
+	index = 600
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_587 = {
+	index = 601
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_588 = {
+	index = 602
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_589 = {
+	index = 603
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_590 = {
+	index = 604
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_591 = {
+	index = 605
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_592 = {
+	index = 606
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_593 = {
+	index = 607
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_594 = {
+	index = 608
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_595 = {
+	index = 609
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_596 = {
+	index = 610
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_597 = {
+	index = 611
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_598 = {
+	index = 612
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_599 = {
+	index = 613
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_600 = {
+	index = 614
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_601 = {
+	index = 615
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_602 = {
+	index = 616
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_603 = {
+	index = 617
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_604 = {
+	index = 618
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_605 = {
+	index = 619
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_606 = {
+	index = 620
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_607 = {
+	index = 621
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_608 = {
+	index = 622
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_609 = {
+	index = 623
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_610 = {
+	index = 624
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_611 = {
+	index = 625
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_612 = {
+	index = 626
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_613 = {
+	index = 627
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_614 = {
+	index = 628
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_615 = {
+	index = 629
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_616 = {
+	index = 630
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_617 = {
+	index = 631
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_618 = {
+	index = 632
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_619 = {
+	index = 633
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_620 = {
+	index = 634
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_621 = {
+	index = 635
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_622 = {
+	index = 636
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_623 = {
+	index = 637
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_624 = {
+	index = 638
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_625 = {
+	index = 639
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_626 = {
+	index = 640
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_627 = {
+	index = 641
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_628 = {
+	index = 642
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_629 = {
+	index = 643
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_630 = {
+	index = 644
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_631 = {
+	index = 645
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_632 = {
+	index = 646
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_633 = {
+	index = 647
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_634 = {
+	index = 648
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_635 = {
+	index = 649
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_636 = {
+	index = 650
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_637 = {
+	index = 651
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_638 = {
+	index = 652
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_639 = {
+	index = 653
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_640 = {
+	index = 654
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_641 = {
+	index = 655
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_642 = {
+	index = 656
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_643 = {
+	index = 657
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_644 = {
+	index = 658
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_645 = {
+	index = 659
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_646 = {
+	index = 660
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_647 = {
+	index = 661
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_648 = {
+	index = 662
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_649 = {
+	index = 663
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_650 = {
+	index = 664
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_651 = {
+	index = 665
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_652 = {
+	index = 666
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_653 = {
+	index = 667
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_654 = {
+	index = 668
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_655 = {
+	index = 669
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_656 = {
+	index = 670
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_657 = {
+	index = 671
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_658 = {
+	index = 672
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_659 = {
+	index = 673
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_660 = {
+	index = 674
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_661 = {
+	index = 675
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_662 = {
+	index = 676
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_663 = {
+	index = 677
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_664 = {
+	index = 678
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_665 = {
+	index = 679
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_666 = {
+	index = 680
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_667 = {
+	index = 681
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_668 = {
+	index = 682
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_669 = {
+	index = 683
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_670 = {
+	index = 684
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_671 = {
+	index = 685
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_672 = {
+	index = 686
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_673 = {
+	index = 687
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_674 = {
+	index = 688
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_675 = {
+	index = 689
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_676 = {
+	index = 690
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_677 = {
+	index = 691
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_678 = {
+	index = 692
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_679 = {
+	index = 693
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_680 = {
+	index = 694
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_681 = {
+	index = 695
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_682 = {
+	index = 696
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_683 = {
+	index = 697
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_684 = {
+	index = 698
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_685 = {
+	index = 699
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_686 = {
+	index = 700
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_687 = {
+	index = 701
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_688 = {
+	index = 702
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_689 = {
+	index = 703
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_690 = {
+	index = 704
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_691 = {
+	index = 705
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_692 = {
+	index = 706
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_693 = {
+	index = 707
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_694 = {
+	index = 708
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_695 = {
+	index = 709
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_696 = {
+	index = 710
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_697 = {
+	index = 711
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_698 = {
+	index = 712
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_699 = {
+	index = 713
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_700 = {
+	index = 714
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_701 = {
+	index = 715
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_702 = {
+	index = 716
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_703 = {
+	index = 717
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_704 = {
+	index = 718
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_705 = {
+	index = 719
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_706 = {
+	index = 720
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_707 = {
+	index = 721
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_708 = {
+	index = 722
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_709 = {
+	index = 723
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_710 = {
+	index = 724
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_711 = {
+	index = 725
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_712 = {
+	index = 726
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_713 = {
+	index = 727
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_714 = {
+	index = 728
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_715 = {
+	index = 729
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_716 = {
+	index = 730
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_717 = {
+	index = 731
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_718 = {
+	index = 732
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_719 = {
+	index = 733
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_720 = {
+	index = 734
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_721 = {
+	index = 735
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_722 = {
+	index = 736
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_723 = {
+	index = 737
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_724 = {
+	index = 738
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_725 = {
+	index = 739
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_726 = {
+	index = 740
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_727 = {
+	index = 741
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_728 = {
+	index = 742
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_729 = {
+	index = 743
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_730 = {
+	index = 744
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_731 = {
+	index = 745
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_732 = {
+	index = 746
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_733 = {
+	index = 747
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_734 = {
+	index = 748
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_735 = {
+	index = 749
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_736 = {
+	index = 750
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_737 = {
+	index = 751
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_738 = {
+	index = 752
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_739 = {
+	index = 753
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_740 = {
+	index = 754
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_741 = {
+	index = 755
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_742 = {
+	index = 756
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_743 = {
+	index = 757
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_744 = {
+	index = 758
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_745 = {
+	index = 759
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_746 = {
+	index = 760
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_747 = {
+	index = 761
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_748 = {
+	index = 762
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_749 = {
+	index = 763
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_750 = {
+	index = 764
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_751 = {
+	index = 765
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_752 = {
+	index = 766
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_753 = {
+	index = 767
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_754 = {
+	index = 768
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_755 = {
+	index = 769
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_756 = {
+	index = 770
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_757 = {
+	index = 771
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_758 = {
+	index = 772
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_759 = {
+	index = 773
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_760 = {
+	index = 774
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_761 = {
+	index = 775
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_762 = {
+	index = 776
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_763 = {
+	index = 777
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_764 = {
+	index = 778
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_765 = {
+	index = 779
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_766 = {
+	index = 780
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_767 = {
+	index = 781
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_768 = {
+	index = 782
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_769 = {
+	index = 783
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_770 = {
+	index = 784
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_771 = {
+	index = 785
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_772 = {
+	index = 786
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_773 = {
+	index = 787
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_774 = {
+	index = 788
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_775 = {
+	index = 789
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_776 = {
+	index = 790
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_777 = {
+	index = 791
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_778 = {
+	index = 792
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_779 = {
+	index = 793
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_780 = {
+	index = 794
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_781 = {
+	index = 795
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_782 = {
+	index = 796
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_783 = {
+	index = 797
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_784 = {
+	index = 798
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_785 = {
+	index = 799
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_786 = {
+	index = 800
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_787 = {
+	index = 801
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_788 = {
+	index = 802
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_789 = {
+	index = 803
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_790 = {
+	index = 804
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_791 = {
+	index = 805
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_792 = {
+	index = 806
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_793 = {
+	index = 807
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_794 = {
+	index = 808
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_795 = {
+	index = 809
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_796 = {
+	index = 810
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_797 = {
+	index = 811
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_798 = {
+	index = 812
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_799 = {
+	index = 813
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_800 = {
+	index = 814
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_801 = {
+	index = 815
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_802 = {
+	index = 816
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_803 = {
+	index = 817
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_804 = {
+	index = 818
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_805 = {
+	index = 819
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_806 = {
+	index = 820
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_807 = {
+	index = 821
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_808 = {
+	index = 822
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_809 = {
+	index = 823
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_810 = {
+	index = 824
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_811 = {
+	index = 825
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_812 = {
+	index = 826
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_813 = {
+	index = 827
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_814 = {
+	index = 828
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_815 = {
+	index = 829
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_816 = {
+	index = 830
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_817 = {
+	index = 831
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_818 = {
+	index = 832
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_819 = {
+	index = 833
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_820 = {
+	index = 834
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_821 = {
+	index = 835
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_822 = {
+	index = 836
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_823 = {
+	index = 837
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_824 = {
+	index = 838
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_825 = {
+	index = 839
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_826 = {
+	index = 840
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_827 = {
+	index = 841
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_828 = {
+	index = 842
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_829 = {
+	index = 843
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_830 = {
+	index = 844
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_831 = {
+	index = 845
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_832 = {
+	index = 846
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_833 = {
+	index = 847
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_834 = {
+	index = 848
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_835 = {
+	index = 849
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_836 = {
+	index = 850
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_837 = {
+	index = 851
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_838 = {
+	index = 852
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_839 = {
+	index = 853
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_840 = {
+	index = 854
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_841 = {
+	index = 855
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_842 = {
+	index = 856
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_843 = {
+	index = 857
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_844 = {
+	index = 858
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_845 = {
+	index = 859
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_846 = {
+	index = 860
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_847 = {
+	index = 861
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_848 = {
+	index = 862
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_849 = {
+	index = 863
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_850 = {
+	index = 864
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_851 = {
+	index = 865
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_852 = {
+	index = 866
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_853 = {
+	index = 867
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_854 = {
+	index = 868
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_855 = {
+	index = 869
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_856 = {
+	index = 870
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_857 = {
+	index = 871
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_858 = {
+	index = 872
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_859 = {
+	index = 873
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_860 = {
+	index = 874
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_861 = {
+	index = 875
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_862 = {
+	index = 876
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_863 = {
+	index = 877
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_864 = {
+	index = 878
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_865 = {
+	index = 879
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_866 = {
+	index = 880
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_867 = {
+	index = 881
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_868 = {
+	index = 882
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_869 = {
+	index = 883
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_870 = {
+	index = 884
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_871 = {
+	index = 885
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_872 = {
+	index = 886
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_873 = {
+	index = 887
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_874 = {
+	index = 888
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_875 = {
+	index = 889
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_876 = {
+	index = 890
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_877 = {
+	index = 891
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_878 = {
+	index = 892
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_879 = {
+	index = 893
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_880 = {
+	index = 894
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_881 = {
+	index = 895
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_882 = {
+	index = 896
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_883 = {
+	index = 897
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_884 = {
+	index = 898
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_885 = {
+	index = 899
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_886 = {
+	index = 900
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_887 = {
+	index = 901
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_888 = {
+	index = 902
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_889 = {
+	index = 903
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_890 = {
+	index = 904
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_891 = {
+	index = 905
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_892 = {
+	index = 906
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_893 = {
+	index = 907
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_894 = {
+	index = 908
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_895 = {
+	index = 909
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_896 = {
+	index = 910
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_897 = {
+	index = 911
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_898 = {
+	index = 912
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_899 = {
+	index = 913
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_900 = {
+	index = 914
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_901 = {
+	index = 915
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_902 = {
+	index = 916
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_903 = {
+	index = 917
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_904 = {
+	index = 918
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_905 = {
+	index = 919
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_906 = {
+	index = 920
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_907 = {
+	index = 921
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_908 = {
+	index = 922
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_909 = {
+	index = 923
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_910 = {
+	index = 924
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_911 = {
+	index = 925
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_912 = {
+	index = 926
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_913 = {
+	index = 927
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_914 = {
+	index = 928
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_915 = {
+	index = 929
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_916 = {
+	index = 930
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_917 = {
+	index = 931
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_918 = {
+	index = 932
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_919 = {
+	index = 933
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_920 = {
+	index = 934
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_921 = {
+	index = 935
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_922 = {
+	index = 936
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_923 = {
+	index = 937
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_924 = {
+	index = 938
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_925 = {
+	index = 939
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_926 = {
+	index = 940
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_927 = {
+	index = 941
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_928 = {
+	index = 942
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_929 = {
+	index = 943
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_930 = {
+	index = 944
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_931 = {
+	index = 945
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_932 = {
+	index = 946
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_933 = {
+	index = 947
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_934 = {
+	index = 948
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_935 = {
+	index = 949
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_936 = {
+	index = 950
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_937 = {
+	index = 951
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_938 = {
+	index = 952
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_939 = {
+	index = 953
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_940 = {
+	index = 954
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_941 = {
+	index = 955
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_942 = {
+	index = 956
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_943 = {
+	index = 957
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_944 = {
+	index = 958
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_945 = {
+	index = 959
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_946 = {
+	index = 960
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_947 = {
+	index = 961
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_948 = {
+	index = 962
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_949 = {
+	index = 963
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_950 = {
+	index = 964
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_951 = {
+	index = 965
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_952 = {
+	index = 966
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_953 = {
+	index = 967
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_954 = {
+	index = 968
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_955 = {
+	index = 969
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_956 = {
+	index = 970
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_957 = {
+	index = 971
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_958 = {
+	index = 972
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_959 = {
+	index = 973
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_960 = {
+	index = 974
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_961 = {
+	index = 975
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_962 = {
+	index = 976
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_963 = {
+	index = 977
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_964 = {
+	index = 978
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_965 = {
+	index = 979
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_966 = {
+	index = 980
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_967 = {
+	index = 981
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_968 = {
+	index = 982
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_969 = {
+	index = 983
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_970 = {
+	index = 984
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_971 = {
+	index = 985
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_972 = {
+	index = 986
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_973 = {
+	index = 987
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_974 = {
+	index = 988
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_975 = {
+	index = 989
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_976 = {
+	index = 990
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_977 = {
+	index = 991
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_978 = {
+	index = 992
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_979 = {
+	index = 993
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_980 = {
+	index = 994
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_981 = {
+	index = 995
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_982 = {
+	index = 996
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_983 = {
+	index = 997
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_984 = {
+	index = 998
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_985 = {
+	index = 999
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_986 = {
+	index = 1000
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_987 = {
+	index = 1001
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_988 = {
+	index = 1002
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_989 = {
+	index = 1003
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_990 = {
+	index = 1004
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_991 = {
+	index = 1005
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_992 = {
+	index = 1006
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_993 = {
+	index = 1007
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_994 = {
+	index = 1008
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_995 = {
+	index = 1009
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_996 = {
+	index = 1010
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_997 = {
+	index = 1011
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_998 = {
+	index = 1012
+	desc = "DUMMY_ACTIONS"
+}
+
+interaction_category_dummy_999 = {
+	index = 1013
+	desc = "DUMMY_ACTIONS"
+}
+
+
+interaction_category_divine = {
+	index = 1014
+	desc = "DIVINE_ACTIONS"
+}
