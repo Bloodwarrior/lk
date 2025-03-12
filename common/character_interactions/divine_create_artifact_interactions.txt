@@ -1,0 +1,91 @@
+divine_create_artifact_interaction = {
+    category = interaction_category_divine
+    icon = create_artifact
+
+    desc = divine_create_artifact_interaction_desc
+
+    is_shown = {
+        scope:actor = { is_a_divinity = yes }
+    }
+
+    is_valid_showing_failures_only = {
+    }
+
+    send_options_exclusive = yes
+
+    send_option = {
+        flag = create_weapon
+        localization = create_weapon_option
+    }
+
+    send_option = {
+        flag = create_armor
+        localization = create_armor_option
+    }
+
+    send_option = {
+        flag = create_jewelry
+        localization = create_jewelry_option
+    }
+
+    send_option = {
+        flag = create_relic
+        localization = create_relic_option
+    }
+
+    on_accept = {
+        scope:recipient = {
+            if = {
+                limit = {
+                    scope:create_weapon = yes
+                }
+                create_artifact = {
+                    type = weapon
+                    owner = scope:recipient
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:create_armor = yes
+                }
+                create_artifact = {
+                    type = armor
+                    owner = scope:recipient
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:create_jewelry = yes
+                }
+                create_artifact = {
+                    type = jewelry
+                    owner = scope:recipient
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:create_relic = yes
+                }
+                create_artifact = {
+                    type = relic
+                    owner = scope:recipient
+                }
+            }
+        }
+    }
+
+    auto_accept = yes
+
+    cost = {
+        piety = {
+            add = {
+                desc = "BASE_VALUE"
+                value = 500
+                format = "BASE_VALUE_FORMAT"
+            }
+        }
+    }
+}

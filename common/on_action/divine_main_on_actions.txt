@@ -1,4 +1,3 @@
-
 on_piety_level_gain = {
 	on_actions = {
 		piety_level_change_on_action
@@ -51,6 +50,12 @@ on_title_lost = {
 on_travel_plan_movement = {
 	on_actions = {
 		perpendicularity_move_back_travel
+	}
+}
+
+on_artifact_created = {
+	on_actions = {
+		# Add any specific actions to be taken when an artifact is created
 	}
 }
 

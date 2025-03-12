@@ -5009,3 +5009,8 @@ interaction_category_divine = {
 	index = 1014
 	desc = "DIVINE_ACTIONS"
 }
+
+interaction_category_create_artifact = {
+	index = 1015
+	desc = "CREATE_ARTIFACT_ACTIONS"
+}

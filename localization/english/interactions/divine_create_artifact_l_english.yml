@@ -1,0 +1,9 @@
+l_english:
+ divine_create_artifact_interaction: "Create Artifact"
+ divine_create_artifact_interaction_desc: "Create a divine artifact for [recipient.GetShortUINameNoTooltip], granting them a powerful item."
+ create_weapon_option: "Weapon"
+ create_armor_option: "Armor"
+ create_jewelry_option: "Jewelry"
+ create_relic_option: "Relic"
+ BASE_VALUE: "Base Value"
+ BASE_VALUE_FORMAT: "Base Value Format"
