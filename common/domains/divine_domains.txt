@@ -1,0 +1,80 @@
+divine_domains = {
+    domain_1 = {
+        name = "War"
+        description = "Domain of War"
+        attributes = {
+            martial = 10
+            prowess = 5
+        }
+        effects = {
+            advantage = 5
+            enemy_hard_casualty_modifier = 0.1
+        }
+    }
+    domain_2 = {
+        name = "Wealth"
+        description = "Domain of Wealth"
+        attributes = {
+            stewardship = 10
+        }
+        effects = {
+            monthly_income_mult = 0.2
+            build_gold_cost = -0.1
+        }
+    }
+    domain_3 = {
+        name = "Deceit"
+        description = "Domain of Deceit"
+        attributes = {
+            intrigue = 10
+        }
+        effects = {
+            hostile_scheme_success_chance_add = 10
+            scheme_resistance = 10
+        }
+    }
+    domain_4 = {
+        name = "Love"
+        description = "Domain of Love"
+        attributes = {
+            diplomacy = 10
+        }
+        effects = {
+            general_opinion = 10
+            personal_scheme_success_chance_add = 10
+        }
+    }
+    domain_5 = {
+        name = "Speed"
+        description = "Domain of Speed"
+        attributes = {
+            prowess = 10
+        }
+        effects = {
+            movement_speed = 0.1
+            siege_phase_time = -0.1
+        }
+    }
+    domain_6 = {
+        name = "Battle"
+        description = "Domain of Battle"
+        attributes = {
+            prowess = 15
+        }
+        effects = {
+            knight_effectiveness_mult = 0.2
+            knight_limit = 2
+        }
+    }
+    domain_7 = {
+        name = "Mind"
+        description = "Domain of Mind"
+        attributes = {
+            learning = 10
+        }
+        effects = {
+            stress_loss_mult = 0.1
+            stress_gain_mult = -0.1
+        }
+    }
+}

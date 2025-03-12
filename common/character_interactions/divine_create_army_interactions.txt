@@ -59,6 +59,76 @@
 		localization = divine_titan_option
 	}
 
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_1 }
+			}
+		}
+		flag = domain_1
+		localization = domain_1_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_2 }
+			}
+		}
+		flag = domain_2
+		localization = domain_2_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_3 }
+			}
+		}
+		flag = domain_3
+		localization = domain_3_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_4 }
+			}
+		}
+		flag = domain_4
+		localization = domain_4_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_5 }
+			}
+		}
+		flag = domain_5
+		localization = domain_5_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_6 }
+			}
+		}
+		flag = domain_6
+		localization = domain_6_option
+	}
+
+	send_option = {
+		is_valid = {
+			scope:recipient = {
+				NOT = { has_trait = domain_7 }
+			}
+		}
+		flag = domain_7
+		localization = domain_7_option
+	}
+
 	on_accept = {
 		scope:recipient = {
 			if = {
@@ -188,6 +258,55 @@
 					location = location
 					name = DIVINE_ARMY
 				}
+			}
+
+			if = {
+				limit = {
+					scope:domain_1 = yes
+				}
+				add_trait = domain_1
+			}
+
+			if = {
+				limit = {
+					scope:domain_2 = yes
+				}
+				add_trait = domain_2
+			}
+
+			if = {
+				limit = {
+					scope:domain_3 = yes
+				}
+				add_trait = domain_3
+			}
+
+			if = {
+				limit = {
+					scope:domain_4 = yes
+				}
+				add_trait = domain_4
+			}
+
+			if = {
+				limit = {
+					scope:domain_5 = yes
+				}
+				add_trait = domain_5
+			}
+
+			if = {
+				limit = {
+					scope:domain_6 = yes
+				}
+				add_trait = domain_6
+			}
+
+			if = {
+				limit = {
+					scope:domain_7 = yes
+				}
+				add_trait = domain_7
 			}
 		}
 	
