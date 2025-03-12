@@ -1,0 +1,692 @@
+custom_bless_interaction = {
+    category = interaction_category_divine
+    icon = bless
+
+    desc = custom_bless_interaction_desc
+
+    is_shown = {
+        scope:actor = { is_a_divinity = yes }
+    }
+
+    is_valid_showing_failures_only = {
+        scope:recipient = {
+            OR = {
+                NOT = {
+                    is_a_divinity = yes
+                }
+                has_trait = prophet_manifestation
+            }
+        }
+    }
+
+    send_options_exclusive = yes
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { has_trait = custom_supernatural_trait_1 }
+            }
+        }
+        flag = custom_supernatural_trait_1
+        localization = custom_supernatural_trait_1_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { has_trait = custom_supernatural_trait_2 }
+            }
+        }
+        flag = custom_supernatural_trait_2
+        localization = custom_supernatural_trait_2_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { has_trait = custom_supernatural_trait_3 }
+            }
+        }
+        flag = custom_supernatural_trait_3
+        localization = custom_supernatural_trait_3_option
+    }
+
+    on_accept = {
+        scope:recipient = {
+            add_opinion = {
+                target = scope:actor
+                modifier = blessed_me_opinion
+            }
+        }
+        if = {
+            limit = {
+                OR = {
+                    scope:custom_supernatural_trait_1 = yes
+                    scope:custom_supernatural_trait_2 = yes
+                    scope:custom_supernatural_trait_3 = yes
+                }
+            }
+            scope:recipient = {
+                custom_description = {
+                    text = increase_investment_text
+                    object = scope:recipient
+                    value = 2
+                    increase_investment_level = { amount = 2 }
+                }
+            }
+        }
+        else = {
+            scope:recipient = {
+                custom_description = {
+                    text = increase_investment_text
+                    object = scope:recipient
+                    value = 1
+                    increase_investment_level = { amount = 1 }
+                }
+            }
+        }
+
+        if = {
+            limit = {
+                scope:custom_supernatural_trait_1 = yes
+            }
+            scope:recipient = {
+                add_trait = custom_supernatural_trait_1
+            }
+        }
+
+        if = {
+            limit = {
+                scope:custom_supernatural_trait_2 = yes
+            }
+            scope:recipient = {
+                add_trait = custom_supernatural_trait_2
+            }
+        }
+
+        if = {
+            limit = {
+                scope:custom_supernatural_trait_3 = yes
+            }
+            scope:recipient = {
+                add_trait = custom_supernatural_trait_3
+            }
+        }
+    }
+
+    auto_accept = yes
+
+    cost = {
+        piety = {
+            add = {
+                desc = "BASE_VALUE"
+                value = 200
+                format = "BASE_VALUE_FORMAT"
+            }
+
+            scope:recipient = {
+                multiply = {
+                    desc = "INVESTMENT_COST_MULTIPLY"
+                    value = investment_level_multiplier
+                }
+            }
+            multiply = {
+                desc = "DOMINION_COST_MULTIPLY"
+                value = dominion_multiplier
+            }
+        }
+    }
+}
+
+custom_curse_interaction = {
+    category = interaction_category_divine
+    icon = curse
+
+    desc = custom_curse_interaction_desc
+
+    is_shown = {
+        scope:actor = { is_a_divinity = yes }
+        NOT = { scope:actor = scope:recipient }
+    }
+
+    is_valid_showing_failures_only = {
+        scope:recipient = {
+            OR = {
+                NOT = {
+                    is_a_divinity = yes
+                }
+                has_trait = prophet_manifestation
+            }
+        }
+    }
+
+    send_options_exclusive = yes
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { has_trait = custom_supernatural_trait_1 }
+            }
+        }
+        flag = custom_supernatural_trait_1
+        localization = custom_supernatural_trait_1_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { has_trait = custom_supernatural_trait_2 }
+            }
+        }
+        flag = custom_supernatural_trait_2
+        localization = custom_supernatural_trait_2_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { has_trait = custom_supernatural_trait_3 }
+            }
+        }
+        flag = custom_supernatural_trait_3
+        localization = custom_supernatural_trait_3_option
+    }
+
+    on_accept = {
+        scope:recipient = {
+            add_opinion = {
+                target = scope:actor
+                modifier = cursed_me_opinion
+            }
+        }
+        if = {
+            limit = {
+                OR = {
+                    scope:custom_supernatural_trait_1 = yes
+                    scope:custom_supernatural_trait_2 = yes
+                    scope:custom_supernatural_trait_3 = yes
+                }
+            }
+            scope:recipient = {
+                custom_description = {
+                    text = increase_investment_text
+                    object = scope:recipient
+                    value = 2
+                    increase_investment_level = { amount = 2 }
+                }
+            }
+        }
+        else = {
+            scope:recipient = {
+                custom_description = {
+                    text = increase_investment_text
+                    object = scope:recipient
+                    value = 1
+                    increase_investment_level = { amount = 1 }
+                }
+            }
+        }
+
+        if = {
+            limit = {
+                scope:custom_supernatural_trait_1 = yes
+            }
+            scope:recipient = {
+                remove_trait = custom_supernatural_trait_1
+            }
+        }
+
+        if = {
+            limit = {
+                scope:custom_supernatural_trait_2 = yes
+            }
+            scope:recipient = {
+                remove_trait = custom_supernatural_trait_2
+            }
+        }
+
+        if = {
+            limit = {
+                scope:custom_supernatural_trait_3 = yes
+            }
+            scope:recipient = {
+                remove_trait = custom_supernatural_trait_3
+            }
+        }
+    }
+
+    auto_accept = yes
+
+    cost = {
+        piety = {
+            add = {
+                desc = "BASE_VALUE"
+                value = 200
+                format = "BASE_VALUE_FORMAT"
+            }
+
+            scope:recipient = {
+                multiply = {
+                    desc = "INVESTMENT_COST_MULTIPLY"
+                    value = investment_level_multiplier
+                }
+            }
+            multiply = {
+                desc = "DOMINION_COST_MULTIPLY"
+                value = dominion_multiplier
+            }
+        }
+    }
+}
+
+custom_create_army_interaction = {
+    category = interaction_category_divine
+    icon = create_army
+
+    desc = custom_create_army_interaction_desc
+
+    is_shown = {
+        scope:actor = { is_a_divinity = yes }
+    }
+
+    is_valid_showing_failures_only = {
+    }
+
+    send_options_exclusive = yes
+
+    send_option = {
+        flag = levies_500
+        localization = levies_500_option
+    }
+
+    send_option = {
+        flag = levies_2500
+        localization = levies_2500_option
+    }
+
+    send_option = {
+        flag = custom_divine_footmen
+        localization = custom_divine_footmen_option
+    }
+
+    send_option = {
+        flag = custom_divine_footmen_large
+        localization = custom_divine_footmen_large_option
+    }
+
+    send_option = {
+        flag = custom_divine_bowmen
+        localization = custom_divine_bowmen_option
+    }
+
+    send_option = {
+        flag = custom_divine_bowmen_large
+        localization = custom_divine_bowmen_large_option
+    }
+
+    send_option = {
+        flag = custom_divine_knights
+        localization = custom_divine_knights_option
+    }
+
+    send_option = {
+        flag = custom_divine_knights_large
+        localization = custom_divine_knights_large_option
+    }
+
+    send_option = {
+        flag = custom_divine_titan
+        localization = custom_divine_titan_option
+    }
+
+    on_accept = {
+        scope:recipient = {
+            if = {
+                limit = {
+                    scope:levies_500 = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    levies = 500
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:levies_2500 = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    levies = 2500
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_footmen = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_armored_footmen
+                        stacks = 1
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_footmen_large = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_armored_footmen
+                        stacks = 5
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_bowmen = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_bowmen
+                        stacks = 1
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_bowmen_large = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_bowmen
+                        stacks = 5
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_knights = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_armored_horsemen
+                        stacks = 1
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_knights_large = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_armored_horsemen
+                        stacks = 5
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_titan = yes
+                }
+                spawn_army = {
+                    inheritable = no
+                    men_at_arms = {
+                        type = custom_divine_titan
+                        stacks = 1
+                    }
+                    location = location
+                    name = CUSTOM_DIVINE_ARMY
+                }
+            }
+        }
+    }
+
+    auto_accept = yes
+
+    cost = {
+        piety = {
+            add = {
+                desc = "BASE_VALUE"
+                value = 100
+                format = "BASE_VALUE_FORMAT"
+            }
+
+            if = {
+                limit = {
+                    OR = {
+                        scope:levies_2500 = yes
+                        scope:custom_divine_footmen_large = yes
+                        scope:custom_divine_bowmen_large = yes
+                        scope:custom_divine_knights_large = yes
+                    }
+                }
+                add = {
+                    desc = "BIG_REGIMENT"
+                    value = 400
+                }
+            }
+
+            if = {
+                limit = {
+                    scope:custom_divine_titan = yes
+                }
+                add = {
+                    desc = "TITAN"
+                    value = 900
+                }
+            }
+        }
+    }
+}
+
+custom_heal_harm_interaction = {
+    category = interaction_category_divine
+    icon = heal_harm
+
+    desc = custom_heal_harm_interaction_desc
+
+    is_shown = {
+        scope:actor = { is_a_divinity = yes }
+    }
+
+    is_valid_showing_failures_only = {
+        scope:recipient = {
+            OR = {
+                NOT = {
+                    is_a_divinity = yes
+                }
+                scope:actor = scope:recipient
+            }
+        }
+    }
+
+    send_options_exclusive = yes
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                has_health_problems = yes
+            }
+        }
+        flag = heal
+        localization = heal_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { scope:actor = scope:recipient }
+            }
+        }
+        flag = illness
+        localization = illness_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { scope:actor = scope:recipient }
+            }
+        }
+        flag = injure
+        localization = injure_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { scope:actor = scope:recipient }
+            }
+        }
+        flag = severly_injure
+        localization = severly_injure_option
+    }
+
+    send_option = {
+        is_valid = {
+            scope:recipient = {
+                NOT = { scope:actor = scope:recipient }
+            }
+        }
+        flag = smite
+        localization = smite_option
+    }
+
+    on_accept = {
+        if = {
+            limit = {
+                scope:heal = yes
+            }
+            scope:recipient = {
+                heal_effect = yes
+                add_opinion = {
+                    target = scope:actor
+                    modifier = blessed_me_opinion
+                }
+            }
+        }
+
+        if = {
+            limit = {
+                scope:illness = yes
+            }
+            scope:recipient = {
+                give_random_illness_effect = yes
+                add_opinion = {
+                    target = scope:actor
+                    modifier = cursed_me_opinion
+                }
+            }
+        }
+
+        if = {
+            limit = {
+                scope:injure = yes
+            }
+            scope:recipient = {
+                increase_wounds_effect = { REASON = death_sacrificed_to_gods }
+                add_opinion = {
+                    target = scope:actor
+                    modifier = cursed_me_opinion
+                }
+            }
+        }
+
+        if = {
+            limit = {
+                scope:severly_injure = yes
+            }
+            scope:recipient = {
+                hidden_effect = {
+                    increase_wounds_effect = { REASON = death_sacrificed_to_gods }
+                    increase_wounds_effect = { REASON = death_sacrificed_to_gods }
+                }
+                custom_tooltip = "GAIN_TWO_WOUNDS"
+                add_opinion = {
+                    target = scope:actor
+                    modifier = cursed_me_opinion
+                }
+            }
+        }
+
+        if = {
+            limit = {
+                scope:smite = yes
+            }
+            scope:recipient = {
+                custom_tooltip = WILL_NOT_RETURN
+                add_character_flag = no_ressurection
+                death = { killer = scope:actor death_reason = death_sacrificed_to_gods }
+            }
+        }
+    }
+
+    auto_accept = yes
+
+    cost = {
+        piety = {
+            add = {
+                desc = "BASE_VALUE"
+                value = 200
+                format = "BASE_VALUE_FORMAT"
+            }
+
+            if = {
+                limit = {
+                    scope:severly_injure = yes
+                }
+                add = {
+                    desc = "severly_injure_option"
+                    value = 150
+                }
+            }
+            if = {
+                limit = {
+                    scope:smite = yes
+                }
+                add = {
+                    desc = "smite_option"
+                    value = 300
+                }
+            }
+            scope:recipient = {
+                multiply = {
+                    desc = "INVESTMENT_COST_MULTIPLY"
+                    value = investment_level_multiplier
+                }
+            }
+            multiply = {
+                desc = "DOMINION_COST_MULTIPLY"
+                value = dominion_multiplier
+            }
+        }
+    }
+}

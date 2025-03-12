@@ -14,3 +14,19 @@ become_divinity_decision = { #by Linnéa Thimrén
 	}
 	
 }
+
+create_custom_supernatural_decision = {
+	picture = {
+		reference = "gfx/interface/illustrations/decisions/decision_personal_religious.dds"
+	}
+	desc = create_custom_supernatural_decision_desc
+	selection_tooltip = create_custom_supernatural_decision_tooltip
+
+	is_shown = {
+		NOT = { is_a_divinity = yes }
+	}
+
+	effect = {
+		trigger_event = divine_creation.0002
+	}
+}
