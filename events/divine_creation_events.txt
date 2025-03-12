@@ -33,3 +33,30 @@ divine_creation.0001 = {
 	}
 	
 }
+
+divine_creation.0002 = {
+	title = divine_creation.0002.title
+	desc = divine_creation.0002.desc
+	theme = faith
+
+	left_portrait = root
+
+	immediate = {
+		play_music_cue = "mx_cue_general_crusade_event_2"
+	}
+
+	option = {
+		name = divine_creation.0002.a
+		add_trait = custom_supernatural_trait_1
+	}
+
+	option = {
+		name = divine_creation.0002.b
+		add_trait = custom_supernatural_trait_2
+	}
+
+	option = {
+		name = divine_creation.0002.c
+		add_trait = custom_supernatural_trait_3
+	}
+}
